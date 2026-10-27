@@ -1,0 +1,30 @@
+body{
+    font-family: Arial;
+    background-color:lightyellow;
+}
+header{
+    background:linear-gradient(to right,red,lightpink);
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+section{
+    background:white;
+    margin:20px;
+    padding:20px;
+    border-radius:10px;
+}
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+th,td{
+    border:1px solid black;
+    padding:10px;
+}
+button{
+    background:blue;
+    color:white;
+    padding:10px;
+    border:none;
+}
